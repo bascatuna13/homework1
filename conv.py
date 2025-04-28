@@ -7,6 +7,7 @@ def convert(ops,value ):
         return f"KM {value / 1000}"
     else:
         return "Error"
+print("hello\n")
 
 ops = input(" metre or km ? : ")
 value = int(input("enter value"))
