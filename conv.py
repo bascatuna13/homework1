@@ -14,3 +14,4 @@ value = int(input("enter value"))
 
 print(convert(ops, value))
 
+print("\noodbye")
